@@ -2,14 +2,19 @@
 
 ## Description
 
-Enables additional reply option after Atton speaks:
+Enables additional reply option after Atton speaks (strref=75200):
 
 > We should be there before too long. You can check our course on the galaxy map
 if you want - it's on the wall behind you.
 
-```
-strref=75200,
-```
+This mod also modifies the default dialog line of the reply which don't
+make much sense in this context:
+
+> What do you mean, "not much use?"
+
+by
+
+> Can't we choose another destination?
 
 ## How to install
 
