@@ -16,6 +16,9 @@ by
 
 > Can't we choose another destination?
 
+![2025051713063600-09283F1FC0B01C5416AE2622190758FC.jpg](img/2025051713063600-09283F1FC0B01C5416AE2622190758FC.jpg)
+
+
 ## How to install
 
 ### Recomended
