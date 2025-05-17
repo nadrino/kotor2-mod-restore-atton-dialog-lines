@@ -1,4 +1,4 @@
-# kotor2-mod-restore-atton-dialog-lines
+# Restore Atton Dialog Lines in Ebon Hawk
 
 ## Description
 
