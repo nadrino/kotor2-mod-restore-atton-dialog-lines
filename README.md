@@ -1,5 +1,15 @@
 # kotor2-mod-restore-atton-dialog-lines
-kotor2-mod-restore-atton-dialog-lines
+
+## Description
+
+Enables additional reply option after Atton speaks:
+
+> We should be there before too long. You can check our course on the galaxy map
+if you want - it's on the wall behind you.
+
+```
+strref=75200,
+```
 
 ## How to install
 
@@ -16,14 +26,24 @@ Place the .dlg file in override.
 
 ### 003atton.dlg
 
+To enable this dialog, the game checks the following:
 ```C
-// here is a translation of the script that determines if the dialog line is active
-bool isActive(){
-
-}
-
+GetGlobalNumber("003EBO_Atton_Talk") < 5
 ```
 
+The variables `"003EBO_Atton_Talk"` and `5` are actually arguments provided by
+`003atton.dlg` to the script `c_global_lt.ncs`.
+
+However, when the dialog line `135181 - "{Sitting}"` is reached, i.e.
+when starting the conversation after you spoke to Kreia,
+`"003EBO_Atton_Talk"` is set to 5. Then Atton starts speaking:
+
+> How's our passenger? She still aging?
+
+This is preventing the dialog line from appearing later.
+
+This mod changes the value `5` to `6` so this dialog line appear.
+The other dialog option also have `6`.
 
 
 ## Credits
