@@ -2,7 +2,7 @@
 
 ## Description
 
-Enables additional reply option after Atton speaks (strref=75200):
+Enable an additional reply option after you and Atton discuss Kreia:
 
 > We should be there before too long. You can check our course on the galaxy map
 if you want - it's on the wall behind you.
@@ -17,7 +17,7 @@ by
 > Can't we choose another destination?
 
 ![2025051713063600-09283F1FC0B01C5416AE2622190758FC.jpg](img/2025051713063600-09283F1FC0B01C5416AE2622190758FC.jpg)
-
+![vlcsnap-2025-05-17-15h59m34s690.png](img/vlcsnap-2025-05-17-15h59m34s690.png)
 
 ## How to install
 
