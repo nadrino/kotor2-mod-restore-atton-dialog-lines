@@ -1,4 +1,4 @@
-# Restore Atton Dialog Lines in Ebon Hawk
+# Restore dialog with Atton about the astronavigation system
 
 ## Description
 
