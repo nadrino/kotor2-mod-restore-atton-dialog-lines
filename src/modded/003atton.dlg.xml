@@ -23884,7 +23884,9 @@
             <uint16_t label="Animation">10427</uint16_t>
           </struct>
         </list>
-        <locstring label="Text" strref="75362"/>
+        <locstring label="Text" strref="75362">
+          <string language="0">Can't we choose another destination?</string>
+        </locstring>
         <resref label="VO_ResRef"></resref>
         <resref label="Script"></resref>
         <resref label="Script2"></resref>
