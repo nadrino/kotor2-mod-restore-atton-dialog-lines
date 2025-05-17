@@ -40,7 +40,10 @@ when starting the conversation after you spoke to Kreia,
 
 > How's our passenger? She still aging?
 
-This is preventing the dialog line from appearing later.
+This is preventing the dialog line from appearing after Atton says:
+
+> We should be there before too long. You can check our course on the galaxy
+map if you want - it's on the wall behind you.
 
 This mod changes the value `5` to `6` so this dialog line appear.
 The other dialog option also have `6`.
