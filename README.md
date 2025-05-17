@@ -14,6 +14,16 @@ Place the .dlg file in override.
 
 ## How does it work?
 
+### 003atton.dlg
+
+```C
+// here is a translation of the script that determines if the dialog line is active
+bool isActive(){
+
+}
+
+```
+
 
 
 ## Credits
