@@ -16,6 +16,13 @@ by
 
 > Can't we choose another destination?
 
+This addition allows triggering a new line while talking to T3-M4 after the
+conversation with Atton. This dialog can unlock later in the story line, but it
+makes more sense to happen now even tho your influence on T3 is too low.
+
+> T3, what's wrong with the astrogation system?
+
+
 ![2025051713063600-09283F1FC0B01C5416AE2622190758FC.jpg](img/2025051713063600-09283F1FC0B01C5416AE2622190758FC.jpg)
 
 ## Demo video
@@ -59,6 +66,9 @@ map if you want - it's on the wall behind you.
 This mod changes the value `5` to `6` so this dialog line appear.
 The other dialog option also have `6`.
 
+## This mod echos an old issue raised by `ttlan`
+
+https://deadlystream.com/topic/316-dialogue-with-atton-about-the-astronavigation-system/?tab=comments#comment-3014
 
 ## Credits
 
