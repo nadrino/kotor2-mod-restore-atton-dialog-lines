@@ -17,7 +17,10 @@ by
 > Can't we choose another destination?
 
 ![2025051713063600-09283F1FC0B01C5416AE2622190758FC.jpg](img/2025051713063600-09283F1FC0B01C5416AE2622190758FC.jpg)
-![vlcsnap-2025-05-17-15h59m34s690.png](img/vlcsnap-2025-05-17-15h59m34s690.png)
+
+## Demo video
+
+[![DEMO VIDEO](http://img.youtube.com/vi/lz7_649AEEQ/0.jpg)](http://www.youtube.com/watch?v=lz7_649AEEQ "Demo video")
 
 ## How to install
 
